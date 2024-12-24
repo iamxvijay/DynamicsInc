@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|d:\\workspace\\testbox\\dynamicsinc\\codetest\\programmingtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|solutionrelative:programmingtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E546E65E-B612-45CC-89B8-409125873CF1}|NewFolder1{E546E65E-B612-45CC-89B8-409125873CF1}|D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\TestPage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E546E65E-B612-45CC-89B8-409125873CF1}|NewFolder1{E546E65E-B612-45CC-89B8-409125873CF1}|solutionrelative:TestPage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|d:\\workspace\\testbox\\dynamicsinc\\codetest\\programmingtwo\\encryption_map.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|solutionrelative:programmingtwo\\encryption_map.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6F6AFAC1-D543-4F01-9AD6-5082C9A44FA4}|D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingThree|d:\\workspace\\testbox\\dynamicsinc\\codetest\\programmingthree\\testpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F6AFAC1-D543-4F01-9AD6-5082C9A44FA4}|D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingThree|solutionrelative:programmingthree\\testpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E2DA640-3B10-4978-A0FB-8657A96413AC}|ProgrammingOne\\ProgrammingOne.csproj|d:\\workspace\\testbox\\dynamicsinc\\codetest\\programmingone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E2DA640-3B10-4978-A0FB-8657A96413AC}|ProgrammingOne\\ProgrammingOne.csproj|solutionrelative:programmingone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|d:\\workspace\\testbox\\dynamicsinc\\codetest\\programmingtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|solutionrelative:programmingtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|d:\\workspace\\testbox\\dynamicsinc\\codetest\\programmingtwo\\encryption_map.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{236B38FD-9284-498B-BC5F-760591790CD1}|ProgrammingTwo\\ProgrammingTwo.csproj|solutionrelative:programmingtwo\\encryption_map.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestPage.html",
-              "DocumentMoniker": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\TestPage.html",
-              "RelativeDocumentMoniker": "TestPage.html",
-              "ToolTip": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\TestPage.html",
-              "RelativeToolTip": "TestPage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-24T14:01:54.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "encryption_map.txt",
-              "DocumentMoniker": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\encryption_map.txt",
-              "RelativeDocumentMoniker": "ProgrammingTwo\\encryption_map.txt",
-              "ToolTip": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\encryption_map.txt",
-              "RelativeToolTip": "ProgrammingTwo\\encryption_map.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-24T13:50:30.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\Program.cs",
-              "RelativeDocumentMoniker": "ProgrammingTwo\\Program.cs",
-              "ToolTip": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\Program.cs",
-              "RelativeToolTip": "ProgrammingTwo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:49:33.827Z",
+              "Title": "TestPage.html",
+              "DocumentMoniker": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingThree\\TestPage.html",
+              "RelativeDocumentMoniker": "ProgrammingThree\\TestPage.html",
+              "ToolTip": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingThree\\TestPage.html",
+              "RelativeToolTip": "ProgrammingThree\\TestPage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-24T14:59:45.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "encryption_map.txt",
+              "DocumentMoniker": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\encryption_map.txt",
+              "RelativeDocumentMoniker": "ProgrammingTwo\\encryption_map.txt",
+              "ToolTip": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\encryption_map.txt",
+              "RelativeToolTip": "ProgrammingTwo\\encryption_map.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-24T13:50:30.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\Program.cs",
+              "RelativeDocumentMoniker": "ProgrammingTwo\\Program.cs",
+              "ToolTip": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingTwo\\Program.cs",
+              "RelativeToolTip": "ProgrammingTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:49:33.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingOne\\Program.cs",
               "RelativeDocumentMoniker": "ProgrammingOne\\Program.cs",
               "ToolTip": "D:\\workspace\\testbox\\DynamicsInc\\CodeTest\\ProgrammingOne\\Program.cs",
               "RelativeToolTip": "ProgrammingOne\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T13:41:20.537Z",
               "EditorCaption": ""

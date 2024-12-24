@@ -45,23 +45,42 @@ public class PrimeNumberCalculator
     }
 }
 
-// Example usage
+// Main Program
 public class Program
 {
     public static void Main(string[] args)
     {
         var calculator = new PrimeNumberCalculator();
+        bool keepRunning = true;
 
-        try
+        while (keepRunning)
         {
-            PrintPrimes(1, 5, calculator);    // Expected: Count 2 (2, 3)
-            PrintPrimes(7, 11, calculator);   // Expected: Count 0 (None)
-            PrintPrimes(1, 11, calculator);   // Expected: Count 4 (2, 3, 5, 7)
-            PrintPrimes(1, 211, calculator);   // Expected: 
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine("An error occurred: " + ex.Message);
+            try
+            {
+                Console.WriteLine("Enter the starting integer:");
+                int start = int.Parse(Console.ReadLine());
+
+                Console.WriteLine("Enter the ending integer:");
+                int end = int.Parse(Console.ReadLine());
+
+                PrintPrimes(start, end, calculator);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Invalid input. Please enter valid integers.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+
+            Console.WriteLine("Do you want to run again? Type 'yes' to run again or 'exit' to quit:");
+            string choice = Console.ReadLine();
+            if (choice.Equals("exit", StringComparison.OrdinalIgnoreCase))
+            {
+                keepRunning = false;
+                Console.WriteLine("Exited");
+            }
         }
     }
 

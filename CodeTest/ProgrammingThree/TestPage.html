@@ -9,29 +9,37 @@
     <style>
         body {
             transition: background-color 0.3s ease, color 0.3s ease;
+            background-color: white;
+            color: black;
         }
+
+            body.inverted {
+                background-color: black;
+                color: white;
+            }
 
         #invertButton {
             transition: background-color 0.3s ease, color 0.3s ease;
+            background-color: black;
+            color: white;
         }
+
+            #invertButton.inverted {
+                background-color: white;
+                color: black;
+            }
     </style>
 </head>
-<body class="d-flex justify-content-center align-items-center vh-100 bg-white text-black">
-    <button id="invertButton" class="btn btn-dark">TEST</button>
+<body class="d-flex justify-content-center align-items-center vh-100">
+    <button id="invertButton" class="btn">TEST</button>
 
     <script>
-        // Add click event listener to toggle colors
         document.getElementById('invertButton').addEventListener('click', function () {
             const body = document.body;
-            if (body.classList.contains('bg-white')) {
-                body.classList.replace('bg-white', 'bg-black');
-                body.classList.replace('text-black', 'text-white');
-                this.classList.replace('btn-dark', 'btn-light');
-            } else {
-                body.classList.replace('bg-black', 'bg-white');
-                body.classList.replace('text-white', 'text-black');
-                this.classList.replace('btn-light', 'btn-dark');
-            }
+
+            // Toggle the inverted class for the body and button
+            body.classList.toggle('inverted');
+            this.classList.toggle('inverted');
         });
     </script>
 </body>
