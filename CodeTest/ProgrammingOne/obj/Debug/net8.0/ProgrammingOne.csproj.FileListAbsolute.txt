@@ -1,0 +1,15 @@
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\bin\Debug\net8.0\ProgrammingOne.exe
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\bin\Debug\net8.0\ProgrammingOne.deps.json
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\bin\Debug\net8.0\ProgrammingOne.runtimeconfig.json
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\bin\Debug\net8.0\ProgrammingOne.dll
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\bin\Debug\net8.0\ProgrammingOne.pdb
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.AssemblyInfoInputs.cache
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.AssemblyInfo.cs
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.csproj.CoreCompileInputs.cache
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.sourcelink.json
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.dll
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\refint\ProgrammingOne.dll
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.pdb
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ProgrammingOne.genruntimeconfig.cache
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingOne\obj\Debug\net8.0\ref\ProgrammingOne.dll

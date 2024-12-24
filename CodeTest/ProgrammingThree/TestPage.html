@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Invert Button</title>
+    <!-- Include Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        #invertButton {
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+    </style>
+</head>
+<body class="d-flex justify-content-center align-items-center vh-100 bg-white text-black">
+    <button id="invertButton" class="btn btn-dark">TEST</button>
+
+    <script>
+        // Add click event listener to toggle colors
+        document.getElementById('invertButton').addEventListener('click', function () {
+            const body = document.body;
+            if (body.classList.contains('bg-white')) {
+                body.classList.replace('bg-white', 'bg-black');
+                body.classList.replace('text-black', 'text-white');
+                this.classList.replace('btn-dark', 'btn-light');
+            } else {
+                body.classList.replace('bg-black', 'bg-white');
+                body.classList.replace('text-white', 'text-black');
+                this.classList.replace('btn-light', 'btn-dark');
+            }
+        });
+    </script>
+</body>
+</html>

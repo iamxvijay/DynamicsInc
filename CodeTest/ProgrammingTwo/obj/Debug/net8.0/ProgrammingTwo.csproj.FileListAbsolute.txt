@@ -1,0 +1,16 @@
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\bin\Debug\net8.0\ProgrammingTwo.exe
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\bin\Debug\net8.0\ProgrammingTwo.deps.json
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\bin\Debug\net8.0\ProgrammingTwo.runtimeconfig.json
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\bin\Debug\net8.0\ProgrammingTwo.dll
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\bin\Debug\net8.0\ProgrammingTwo.pdb
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.AssemblyInfoInputs.cache
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.AssemblyInfo.cs
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.csproj.CoreCompileInputs.cache
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.sourcelink.json
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.dll
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\refint\ProgrammingTwo.dll
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.pdb
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ProgrammingTwo.genruntimeconfig.cache
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\obj\Debug\net8.0\ref\ProgrammingTwo.dll
+D:\workspace\testbox\DynamicsInc\CodeTest\ProgrammingTwo\bin\Debug\net8.0\encryption_map.txt
